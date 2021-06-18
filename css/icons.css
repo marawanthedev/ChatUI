@@ -1,0 +1,14 @@
+  .icon-xsmall {
+      width: 1.5rem;
+      height: 1.5rem;
+  }
+  
+  .icon-small {
+      width: 2.5rem;
+      height: 2.5rem;
+  }
+  
+  .icon-medium {
+      height: 100%;
+      width: 4.5rem;
+  }
