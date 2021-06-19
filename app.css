@@ -590,11 +590,11 @@
                 margin-top: -1rem;
             }
             .chat-app-main-right-side__inner-container__chat-area {
-                height: 70rem;
+                height: 57.5rem;
                 position: relative;
             }
             .chat-app-main-right-side {
-                height: 80rem;
+                height: 70rem;
             }
             .chat-app-main-right-side__inner-container {
                 height: 70rem;
@@ -606,10 +606,6 @@
                 width: 95%;
             }
             .chat-app-main-right-side__inner-container__chat-input-field-container {
-                position: absolute;
-                height: 7.5rem;
-                bottom: -9rem;
-                left: 0;
                 z-index: 200;
             }
         }
@@ -617,5 +613,11 @@
         @media only screen and (max-width: 415px) {
             html {
                 font-size: 7px;
+            }
+        }
+        
+        @media only screen and (max-width: 315px) {
+            html {
+                font-size: 6px;
             }
         }
